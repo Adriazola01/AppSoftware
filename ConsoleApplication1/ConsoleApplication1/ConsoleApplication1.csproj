@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="array.cs" />
+    <Compile Include="Fibonacci.cs" />
+    <Compile Include="list.cs" />
+    <Compile Include="Number.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
