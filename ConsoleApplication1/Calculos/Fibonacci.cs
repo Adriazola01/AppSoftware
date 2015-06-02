@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
-{
-    class Fibonacci
+
+    public class Fibonacci
     {
         public int Calcular(int f)
         {
@@ -25,4 +24,4 @@ namespace ConsoleApplication1
             }
         }
     }
-}
+

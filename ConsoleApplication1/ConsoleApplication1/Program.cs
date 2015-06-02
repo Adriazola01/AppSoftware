@@ -42,7 +42,7 @@ namespace ConsoleApplication1
             list1.Add(11);
             list1.Add(25);
             //int[] array2 = myArray.ToArray(typeof(int)) as int[];
-            num.fiboArreglo(array2);
+            num.fiboArreglo(list1);
 
             Console.ReadKey();
         }

@@ -5,11 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-namespace ConsoleApplication1
-{
-    class Number
+
+    public class Number
     {
-        public void fiboArreglo(array ar)
+        public void fiboArreglo(IEnumerable ar)
         {
             Fibonacci Fib = new Fibonacci();
             ArrayList arrayL = new ArrayList();
@@ -24,4 +23,4 @@ namespace ConsoleApplication1
             }
         }
     }
-}
+
